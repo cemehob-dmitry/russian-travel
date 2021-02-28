@@ -1,0 +1,5 @@
+.lead__box {
+    display: grid;
+    grid-template-columns: minmax(320px, 984px);
+    gap: 8px;
+}
