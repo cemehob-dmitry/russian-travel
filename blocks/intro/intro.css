@@ -7,3 +7,15 @@
         padding: 92px calc((100% - 928px)/2);
     }
 }
+
+@media screen and (max-width: 1023px){
+    .intro {
+        padding: 88px 24px;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .intro {
+        padding: 64px 16px;
+    }
+}

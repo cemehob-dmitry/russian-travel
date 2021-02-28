@@ -9,3 +9,10 @@
 
     text-align: right;
 }
+
+@media screen and (max-width: 767px){
+    .footer__copiright {
+        text-align: left;
+        margin-top: 16px;
+    }
+}
