@@ -1,5 +1,7 @@
 .footer__links {
-    display: inline;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
 }
 
 @media screen and (max-width: 767px){

@@ -8,6 +8,7 @@
     /* identical to box height, or 114% */
 
     text-align: right;
+    display: flex;
 }
 
 @media screen and (max-width: 767px){
