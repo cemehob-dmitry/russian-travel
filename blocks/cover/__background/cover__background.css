@@ -3,6 +3,7 @@
     height: 100%;
     background-image: url(../../../images/cover-trains.jpg);
     background-size: cover;
+    background-position: center;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -15,7 +16,7 @@
 .cover__background::before {
     content: '';
     opacity: 0.3;
-    background: black;
+    background: #2A2C2F;
     position: absolute;
     top: 0;
     right: 0;
