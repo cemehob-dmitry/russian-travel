@@ -1,4 +1,4 @@
-.cover__content {
+.cover {
     max-width: 1184px;
     margin: 0 auto;
     min-height: 740px;
@@ -6,20 +6,20 @@
 }
 
 @media screen and (max-width: 1279px){
-    .cover__content {
+    .cover {
         min-height: 640px;
         margin: 0;
     }
 }
 
 @media screen and (max-width: 1023px){
-    .cover__content {
+    .cover {
         min-height: 480px;
     }
 }
 
 @media screen and (max-width: 767px){
-    .cover__content {
+    .cover {
         min-height: 200px;
     }
 }
